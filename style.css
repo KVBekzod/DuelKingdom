@@ -1,0 +1,68 @@
+
+h1 {
+
+	text-align: center;
+}
+
+
+	.sticky
+	{
+	    position: fixed;
+	    top: 0;
+	    width: 100%
+	}
+
+
+
+.image-container {
+	
+	margin: 0;
+	text-align: center;
+	}
+
+
+
+.texte {
+
+	text-align: left;
+}
+
+
+
+
+
+.cover {
+    height: 60rem;
+    width: 120rem;
+}
+
+.container {
+    image
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 50vh;
+
+    
+}
+
+.green
+{
+
+background-color: #F7F6B1;
+}
+
+
+
+
+body {
+
+margin: auto 0;
+font-family: Times New Roman;
+color: black;
+background-color: white;
+background-size: cover;
+background-image: cover;
+}
+
+
